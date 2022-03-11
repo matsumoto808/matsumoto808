@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matsumoto808
-- 👀 I’m interested in entering the field of cybersecurity - DFIR
+- 👀 I’m interested in entering the field of cybersecurity - Threat Hunting
 - 🌱 I’m focusing on the Security+ cert and getting better with Linux, for now.
 - 💞️ I’m looking to collaborate on ... TBD
 - 📫 How to reach me: occams_hammer@protonmail.com
